@@ -1,0 +1,85 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Charlotte Run Clubs</title>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link
+      href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;700;800&display=swap"
+      rel="stylesheet"
+    />
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <main class="phone-shell">
+      <section id="listView">
+        <header class="hero">
+          <h1>Charlotte Run Clubs</h1>
+
+          <label class="search-wrap" for="searchInput">
+            <span class="search-icon">⌕</span>
+            <input
+              id="searchInput"
+              type="search"
+              placeholder="Search by club, day, time, or location"
+              autocomplete="off"
+            />
+          </label>
+
+          <div class="filter-row">
+            <select id="dayFilter" aria-label="Filter by day"></select>
+          </div>
+        </header>
+
+        <section>
+          <p id="statusText" class="status">Loading run clubs...</p>
+          <ul id="clubList" class="club-list"></ul>
+        </section>
+      </section>
+
+      <section id="detailView" class="detail-view hidden" aria-live="polite">
+        <header class="detail-header">
+          <button id="backButton" class="back-button" type="button" aria-label="Back to run clubs">
+            ←
+          </button>
+          <h2 id="detailTitle" class="detail-title"></h2>
+        </header>
+
+        <div class="detail-card">
+          <div id="detailAvatar" class="detail-avatar"></div>
+        </div>
+
+        <div class="detail-content">
+          <p><strong>Day:</strong> <span id="detailDay"></span></p>
+          <p><strong>Time:</strong> <span id="detailTime"></span></p>
+          <p>
+            <strong>Location:</strong>
+            <button id="detailLocation" class="address-button" type="button"></button>
+          </p>
+        </div>
+
+        <div id="socialSection" class="social-section">
+          <h3>Social</h3>
+          <div id="socialLinks" class="social-links"></div>
+          <p id="noSocialText" class="no-social hidden">No social media listed.</p>
+        </div>
+      </section>
+    </main>
+
+    <div id="mapsModal" class="maps-modal hidden" role="dialog" aria-modal="true" aria-labelledby="mapsTitle">
+      <div class="maps-sheet">
+        <h3 id="mapsTitle">Open Directions</h3>
+        <p id="mapsSubtitle"></p>
+        <div class="maps-actions">
+          <button id="openAppleMaps" type="button">Apple Maps</button>
+          <button id="openGoogleMaps" type="button">Google Maps</button>
+        </div>
+        <button id="closeMapsModal" class="close-modal" type="button">Cancel</button>
+      </div>
+    </div>
+
+    <script src="app.js"></script>
+  </body>
+</html>
