@@ -1,18 +1,18 @@
 # Charlotte Run Clubs (GitHub Pages)
 
-Mobile-first run club listing app that serves static files from `public/` and uses a daily GitHub Actions job to scrape:
+Mobile-first run club listing app that serves static files from `docs/` and uses a daily GitHub Actions job to scrape:
 
 - https://www.charlotterunningclub.org/Run-Clubs
 
 Daily job writes refreshed data to:
 
-- `public/data/run-clubs.json`
+- `docs/data/run-clubs.json`
 
 ## File hierarchy
 
-- `public/` app UI (`index.html`, `styles.css`, `app.js`)
-- `public/assets/clubs/` thumbnail icons/images
-- `public/data/run-clubs.json` scraped run club data used by the app
+- `docs/` app UI (`index.html`, `styles.css`, `app.js`)
+- `docs/assets/clubs/` thumbnail icons/images
+- `docs/data/run-clubs.json` scraped run club data used by the app
 - `scripts/scrape-run-clubs.mjs` scraper used locally + by GitHub Actions
 - `.github/workflows/update-run-clubs.yml` daily scheduled data refresh
 
@@ -36,7 +36,7 @@ Preview site locally (any static server):
 python3 -m http.server 5500
 ```
 
-Open `http://localhost:5500/public/`.
+Open `http://localhost:5500/docs/`.
 
 ## GitHub setup (free hosting)
 
@@ -45,7 +45,7 @@ Open `http://localhost:5500/public/`.
 3. Under `Build and deployment`:
    - `Source`: `Deploy from a branch`
    - `Branch`: `main`
-   - `Folder`: `/public`
+   - `Folder`: `/docs`
 4. Save and wait for Pages URL.
 
 ## Daily data refresh automation
@@ -67,4 +67,3 @@ It runs daily at `09:15 UTC` (about `5:15 AM ET` during daylight time) and can a
    - `CNAME` host `www` -> `<your-github-username>.github.io`
 3. Keep your email records (MX/SPF/DKIM/DMARC) unchanged.
 4. Back in GitHub Pages, enable `Enforce HTTPS` once cert is issued.
-

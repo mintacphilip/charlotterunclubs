@@ -38,6 +38,6 @@ jobs:
             exit 0
           fi
 
-          git add public/data/run-clubs.json
+          git add docs/data/run-clubs.json
           git commit -m "chore: daily run clubs data refresh"
           git push

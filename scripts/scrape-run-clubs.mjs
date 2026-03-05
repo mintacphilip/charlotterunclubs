@@ -3,7 +3,7 @@ import path from 'node:path';
 import { load } from 'cheerio';
 
 const SOURCE_URL = 'https://www.charlotterunningclub.org/Run-Clubs';
-const OUTPUT_PATH = path.join(process.cwd(), 'public', 'data', 'run-clubs.json');
+const OUTPUT_PATH = path.join(process.cwd(), 'docs', 'data', 'run-clubs.json');
 
 function cleanText(value) {
   return (value || '').replace(/\s+/g, ' ').replace(/\u00a0/g, ' ').trim();
