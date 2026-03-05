@@ -434,7 +434,7 @@ async function loadClubs() {
   statusText.textContent = 'Loading run clubs...';
 
   try {
-    const response = await fetch('/api/run-clubs');
+    const response = await fetch('./data/run-clubs.json');
     if (!response.ok) throw new Error('Network response was not ok');
 
     const payload = await response.json();

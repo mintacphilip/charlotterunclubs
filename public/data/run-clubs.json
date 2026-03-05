@@ -1,0 +1,1467 @@
+{
+  "source": "https://www.charlotterunningclub.org/Run-Clubs",
+  "fetchedAt": "2026-03-05T01:24:51.652Z",
+  "count": 99,
+  "changes": {
+    "added": [],
+    "removed": []
+  },
+  "clubs": [
+    {
+      "id": "monday-monday-morning-trailblazers-6-00-a-m-",
+      "day": "Monday",
+      "name": "Monday Morning Trailblazers",
+      "location": "U.S. National Whitewater Center, Charlotte, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mondaymorningtrailblazers/"
+        }
+      ]
+    },
+    {
+      "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
+      "day": "Monday",
+      "name": "Charlotte Ladies Morning Run Club",
+      "location": "Bitty & Beau's - South End, Charlotte NC",
+      "time": "6:15 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/morning.runclub/"
+        }
+      ]
+    },
+    {
+      "id": "monday-joggers-for-lagers-6-00-p-m-",
+      "day": "Monday",
+      "name": "Joggers for Lagers",
+      "location": "Amor Artis Brewing, Fort Mill, SC",
+      "time": "6:00 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/amorartisbrewing/"
+        },
+        {
+          "label": "Website",
+          "url": "https://amorartisbrewing.com/events/"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/amorartisbrewing/?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "monday-kannapolis-run-crew-6-00-p-m-",
+      "day": "Monday",
+      "name": "Kannapolis Run Crew",
+      "location": "High Performance Training, Kannapolis, NC",
+      "time": "6:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/kannapolisruncrew/"
+        }
+      ]
+    },
+    {
+      "id": "monday-barn-burners-run-club-6-15-p-m-",
+      "day": "Monday",
+      "name": "Barn Burners Run Club",
+      "location": "Trolley Barn Fermentory & Food Hall, Charlotte, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/barnburnersclt/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/barnburnersrunclub"
+        }
+      ]
+    },
+    {
+      "id": "monday-ames-street-run-walk-club-6-15-p-m-",
+      "day": "Monday",
+      "name": "Ames Street Run/Walk Club",
+      "location": "Ames Street Marketplace, Matthews, NC",
+      "time": "6:15 p.m.",
+      "links": []
+    },
+    {
+      "id": "monday-percent-run-club-6-30-p-m-",
+      "day": "Monday",
+      "name": "Percent Run Club",
+      "location": "Percent Tap House",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/percent_runclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1300338341037396"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/PercentRunClub"
+        }
+      ]
+    },
+    {
+      "id": "monday-pineville-run-club-6-30-p-m-",
+      "day": "Monday",
+      "name": "Pineville Run Club",
+      "location": "Waterbean Coffee, Pineville, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/pinevillerunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/426810069010167"
+        }
+      ]
+    },
+    {
+      "id": "monday-heist-brewery-run-club-6-30-p-m-",
+      "day": "Monday",
+      "name": "Heist Brewery Run Club",
+      "location": "Heist Brewery - NoDa, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/hbrcnoda/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/HBrunclub"
+        }
+      ]
+    },
+    {
+      "id": "monday-charlotte-running-co-6-30-p-m-",
+      "day": "Monday",
+      "name": "Charlotte Running Co.",
+      "location": "Charlotte Running Company - Dilworth, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/crcdilworth/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/CRCDilworth"
+        }
+      ]
+    },
+    {
+      "id": "monday-matthews-run-club-6-30-p-m-",
+      "day": "Monday",
+      "name": "Matthews Run Club",
+      "location": "Matthews Chamber of Commerce, Matthews, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/matthewsrunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1321662397996977/"
+        }
+      ]
+    },
+    {
+      "id": "monday-black-men-run-6-30-p-m-",
+      "day": "Monday",
+      "name": "Black Men Run",
+      "location": "Protagonist Beer - LoSo, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/blackmenrun_clt/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-highland-creek-run-crew-5-30-a-m-",
+      "day": "Tuesday",
+      "name": "Highland Creek Run Crew",
+      "location": "Ridge Road Middle School, Charlotte, NC",
+      "time": "5:30 a.m.",
+      "links": []
+    },
+    {
+      "id": "tuesday-summit-coffee-run-eastover-6-15-a-m-",
+      "day": "Tuesday",
+      "name": "Summit Coffee Run - Eastover",
+      "location": "Summit Coffee - Eastover, Charlotte, NC",
+      "time": "6:15 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/summitcoffeeeastover/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-hoptown-run-and-walk-community-6-15-p-m-",
+      "day": "Tuesday",
+      "name": "Hoptown Run and Walk Community",
+      "location": "Hoptown Brewing, Mooresville, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/893457567943133"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-running-from-the-cartel-6-15-p-m-",
+      "day": "Tuesday",
+      "name": "Running From the Cartel",
+      "location": "Grove Cartel Brewing, China Grove, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/GroveCartelRunClub"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-neoteric-run-club-6-15-p-m-",
+      "day": "Tuesday",
+      "name": "Neoteric Run Club",
+      "location": "Neoteric Brewing, Huntersville, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/neotericrunclub/?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-running-raptors-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Running Raptors",
+      "location": "Monday Night Brewing Garden Co., Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runningraptorsclt/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-armored-calves-run-club-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Armored Calves Run Club",
+      "location": "Armored Cow Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/armoredcalvesrunclub/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-runbots-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "RunBots",
+      "location": "Wooden Robot Brewery, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runbotsrun/"
+        },
+        {
+          "label": "Website",
+          "url": "https://woodenrobotbrewery.com/runbots/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-mad-miles-run-club-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Mad Miles Run Club",
+      "location": "YVY Training - Camp North End, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/madmilesrunclub/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.madmilesrunclub.com/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-great-wagon-road-run-club-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Great Wagon Road Run Club",
+      "location": "Great Wagon Road Distilling, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/gwrrunners/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=61558735079489"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-opentap-run-club-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "OpenTap Run Club",
+      "location": "OpenTap, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1362862994651026/about"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-olde-meck-brewery-run-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Olde Meck Brewery Run",
+      "location": "Olde Mecklenburg Brewery - LoSo, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/omb_runclub/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-waxhaw-run-club-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Waxhaw Run Club",
+      "location": "Lot behind Blue Door Deli, Waxhaw, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/waxhawrunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/waxhawrc"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-belmont-runners-6-30-p-m-",
+      "day": "Tuesday",
+      "name": "Belmont Runners",
+      "location": "Stowe Park, Belmont, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1974318326175468/"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-matthews-social-house-run-club-6-45-p-m-",
+      "day": "Tuesday",
+      "name": "Matthews Social House Run Club",
+      "location": "Matthew Social House, Matthews, NC",
+      "time": "6:45 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mshrunclub?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=61566971644318"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-south-end-coffee-run-6-30-a-m-",
+      "day": "Wednesday",
+      "name": "South End Coffee Run",
+      "location": "Not Just Coffee - Atherton, Charlotte, NC",
+      "time": "6:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/southendcoffeerun/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-charlotte-runners-united-6-30-a-m-",
+      "day": "Wednesday",
+      "name": "Charlotte Runners United",
+      "location": "Giddy Goat Coffee Roasters, Charlotte, NC",
+      "time": "6:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/charlotterunnersunited/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-crc-trail-run-7-00-a-m-",
+      "day": "Wednesday",
+      "name": "CRC Trail Run",
+      "location": "Col. Francis J. Beatty Park, Matthews, NC",
+      "time": "7:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/beatty_trail_runners/"
+        },
+        {
+          "label": "Website",
+          "url": "/CRC-Trail-Wednesdays"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-moms-in-motion-9-30-a-m-",
+      "day": "Wednesday",
+      "name": "Moms in Motion",
+      "location": "Motion Fitness (Southpark), Charlotte, NC",
+      "time": "9:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/momsinmotion25/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-run-llbc-6-00-p-m-",
+      "day": "Wednesday",
+      "name": "Run LLBC",
+      "location": "Lower Left Brewing, Charlotte, NC",
+      "time": "6:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runllbc/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.llbrewco.com/events-1"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-southern-strain-run-club-6-15-p-m-",
+      "day": "Wednesday",
+      "name": "Southern Strain Run Club",
+      "location": "Southern Strain Beer Company, Concord, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/southernstrainrunclub/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-noda-brewing-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "NoDa Brewing Run Club",
+      "location": "NoDa Brewing - North End, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/nodarunclub/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.nodabrewing.com/events"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-run-hopfly-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Run HopFly",
+      "location": "HopFly Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runhopflybrewingco/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-the-chamber-run-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "The Chamber Run",
+      "location": "The Chamber by Wooden Robot, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/chamber_run/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-resident-culture-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Resident Culture Run Club",
+      "location": "Resident Culture Brewing - Plaza Midwood, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/residentculturerunclub/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-distro-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Distro Run Club",
+      "location": "Distro Beer Hub, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/distrorunclub/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-hi-wire-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Hi-Wire Run Club",
+      "location": "Hi-Wire Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/hiwirerunclubclt/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-stride-city-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Stride City Run Club",
+      "location": "Edge City Brewery, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/stridecity_run_club"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-run-this-town-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Run This Town",
+      "location": "Town Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runthistownclt/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-legion-southpark-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Legion SouthPark Run Club",
+      "location": "Legion Brewing - SouthPark, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/legionsprunclub/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-pour-decisions-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Pour Decisions Run Club",
+      "location": "The Auto Pour, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/2005601643001771"
+        },
+        {
+          "label": "Website",
+          "url": "https://theautopour.com/calendar/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-belmont-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Belmont Run Club",
+      "location": "STATION, Belmont, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/belmontrunclub/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-black-men-run-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Black Men Run",
+      "location": "Lost World's Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/blackmenrun_clt/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-sun-valley-social-house-svsh-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Sun Valley Social House (SVSH) Run Club",
+      "location": "Sun Valley Social House, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/svsh_run_club/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/profile.php?id=61573970636565"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-frank-s-beer-shop-run-and-walk-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Frank's Beer Shop Run and Walk",
+      "location": "Frank's Beer Shop, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/franks.beer.shop/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-don-t-get-dead-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Don't Get Dead Run Club",
+      "location": "Cul-de-sac at end of 2800 block Bent Oak Drive, Stallings, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/dontgetdeadrunclub/"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-gilde-1546-runners-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Gilde 1546 Runners",
+      "location": "Gilde Brewery, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/gilde1546runners/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-hillz-4-breakfast-hillz4bfast-5-00-a-m-",
+      "day": "Thursday",
+      "name": "Hillz 4 Breakfast (HILLZ4BFAST)",
+      "location": "Freedom Park - Princeton Rd., Charlotte, NC",
+      "time": "5:00 a.m.",
+      "links": []
+    },
+    {
+      "id": "thursday-summit-coffee-run-highland-creek-6-00-a-m-",
+      "day": "Thursday",
+      "name": "Summit Coffee Run - Highland Creek",
+      "location": "Summit Coffee Highland Creek, Charlotte, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/summitcoffeehighlandcreek/"
+        },
+        {
+          "label": "Website",
+          "url": "/CRC-x-Summit-Highland-Creek"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/summit_coffee_highland_creek"
+        }
+      ]
+    },
+    {
+      "id": "thursday-morning-miles-clt-6-00-a-m-",
+      "day": "Thursday",
+      "name": "Morning Miles CLT",
+      "location": "Backyard Brew, Charlotte, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/morningmiles_official/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-mount-holly-ladies-run-club-6-00-a-m-",
+      "day": "Thursday",
+      "name": "Mount Holly Ladies Run Club",
+      "location": "Catawba Coffee, Mount Holly, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mhladiesrunclub"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/336574645769844"
+        }
+      ]
+    },
+    {
+      "id": "thursday-the-sole-6-15-a-m-",
+      "day": "Thursday",
+      "name": "the sole",
+      "location": "Charlotte Running Company - Dilworth, Charlotte, NC",
+      "time": "6:15 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/thesole.clt/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/1458544?share_sig=7E2AE5021743519667&_branch_match_id=1259986850302966761&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1i%2Bq8Mp1jMjISwlOsq8rSk1LLSrKzEuPTyrKLy9OLbJ1zijKz00FACq7jzk9AAAA"
+        }
+      ]
+    },
+    {
+      "id": "thursday-pcc-7-7-7-00-a-m-",
+      "day": "Thursday",
+      "name": "PCC 7@7",
+      "location": "Providence Country Club, Charlotte, NC",
+      "time": "7:00 a.m.",
+      "links": [
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/CLT-PCC"
+        }
+      ]
+    },
+    {
+      "id": "thursday-uwharrie-brewing-running-club-5-30-p-m-",
+      "day": "Thursday",
+      "name": "Uwharrie Brewing Running Club",
+      "location": "Uwharrie Brewing, Albemarle, NC",
+      "time": "5:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/uwharriebrewing.runningclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/188347727142426"
+        }
+      ]
+    },
+    {
+      "id": "thursday-patagonia-run-club-6-00-p-m-",
+      "day": "Thursday",
+      "name": "Patagonia Run Club",
+      "location": "Patagonia, Charlotte, NC",
+      "time": "6:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/workingorderfitness/"
+        },
+        {
+          "label": "Website",
+          "url": "https://workingorder.substack.com/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-new-sarum-run-club-6-00-p-m-",
+      "day": "Thursday",
+      "name": "New Sarum Run Club",
+      "location": "New Sarum Brewing, Salisbury, NC",
+      "time": "6:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/newsarumbrewing_runclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/nsbrunclub"
+        }
+      ]
+    },
+    {
+      "id": "thursday-cabarrus-brewing-run-club-6-15-p-m-",
+      "day": "Thursday",
+      "name": "Cabarrus Brewing Run Club",
+      "location": "Cabarrus Brewing, Concord, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/133636077034792/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.cabarrusbrewing.com/events-calendar/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-beer-trekkers-run-club-6-15-p-m-",
+      "day": "Thursday",
+      "name": "Beer Trekkers Run Club",
+      "location": "Lost Worlds Brewing - Metropolitan, Charlotte, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/lostworldscharlotte/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/beertrekkers"
+        }
+      ]
+    },
+    {
+      "id": "thursday-704-run-club-6-15-p-m-",
+      "day": "Thursday",
+      "name": "704 Run Club",
+      "location": "Downtown Pavilion - Gastonia, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/704runclub/?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "thursday-triple-c-beer-runners-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Triple C Beer Runners",
+      "location": "Triple C Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/triplecbeerrunners/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/TripleCBeerRunners"
+        }
+      ]
+    },
+    {
+      "id": "thursday-funroe-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Funroe Run Club",
+      "location": "Monroe Science Center, Monroe, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/funroerunclub/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/1267209"
+        }
+      ]
+    },
+    {
+      "id": "thursday-birdsong-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Birdsong Run Club",
+      "location": "Birdsong Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/birdsongrunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/2357520687720053"
+        }
+      ]
+    },
+    {
+      "id": "thursday-ballantyne-running-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Ballantyne Running Club",
+      "location": "Olde Mecklenburg Brewery - Ballantyne, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/ballantynerunningclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/ballantynerunningclub"
+        }
+      ]
+    },
+    {
+      "id": "thursday-run-dbb-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Run DBB",
+      "location": "Divine Barrel Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/rundbb/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-mad-park-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Mad Park Run Club",
+      "location": "The Auto Pour, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/2005601643001771"
+        },
+        {
+          "label": "Website",
+          "url": "https://theautopour.com/calendar/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-burial-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Burial Run Club",
+      "location": "Burial Beer Co., Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/burial_run_club/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-pour-64-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "Pour 64 Run Club",
+      "location": "Pour 64, Mint Hill, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/OMRMintHillRunClub/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/Pour64"
+        }
+      ]
+    },
+    {
+      "id": "thursday-north-end-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "North End Run Club",
+      "location": "Petty Thieves Brewing, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/northendrunclubclt/"
+        }
+      ]
+    },
+    {
+      "id": "thursday-south-fork-run-club-6-30-p-m-",
+      "day": "Thursday",
+      "name": "South Fork Run Club",
+      "location": "Confluence, Cramerton, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/confluencesouthfork/"
+        }
+      ]
+    },
+    {
+      "id": "friday-summit-coffee-run-otp-6-15-a-m-",
+      "day": "Friday",
+      "name": "Summit Coffee Run - OTP",
+      "location": "Summit Coffee - On The Plaza, Charlotte, NC",
+      "time": "6:15 a.m.",
+      "links": [
+        {
+          "label": "Website",
+          "url": "/CRC-x-Summit-OTP"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/summitotp"
+        }
+      ]
+    },
+    {
+      "id": "friday-running-pac-6-30-a-m-",
+      "day": "Friday",
+      "name": "Running Pac",
+      "location": "Caffeto Specialty Coffee, Charlotte, NC",
+      "time": "6:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runningpac/"
+        }
+      ]
+    },
+    {
+      "id": "friday-summit-coffee-run-ballantyne-6-00-a-m-",
+      "day": "Friday",
+      "name": "Summit Coffee Run - Ballantyne",
+      "location": "Summit Coffee - Ballantyne, Charlotte, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/summitcoffeeballantyne/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/Bsummit23"
+        }
+      ]
+    },
+    {
+      "id": "friday-black-men-run-6-00-a-m-",
+      "day": "Friday",
+      "name": "Black Men Run",
+      "location": "Trader Joe's - University, Charlotte, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/blackmenrun_clt/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-belmont-run-club-7-00-a-m-",
+      "day": "Saturday",
+      "name": "Belmont Run Club",
+      "location": "STATION, Belmont, NC",
+      "time": "7:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/belmontrunclub/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-charlotte-runners-united-7-00-a-m-",
+      "day": "Saturday",
+      "name": "Charlotte Runners United",
+      "location": "Mugs Coffee, Charlotte, NC",
+      "time": "7:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/charlotterunnersunited/"
+        },
+        {
+          "label": "Group Me",
+          "url": "https://groupme.com/join_group/92337432/rP6i8FyC"
+        }
+      ]
+    },
+    {
+      "id": "saturday-slow-runners-of-charlotte-7-30-a-m-",
+      "day": "Saturday",
+      "name": "Slow Runners of Charlotte",
+      "location": "Not Just Coffee - Jay Street, Charlotte, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/slow_runners_of_charlotte/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-charlotte-urban-runners-8-00-a-m-",
+      "day": "Saturday",
+      "name": "Charlotte Urban Runners",
+      "location": "Growler's Pourhouse, Charlotte, NC",
+      "time": "8:00 a.m.",
+      "links": [
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/325805?oq=urb"
+        }
+      ]
+    },
+    {
+      "id": "saturday-latinos-run-charlotte-8-00-a-m-",
+      "day": "Saturday",
+      "name": "Latinos Run Charlotte",
+      "location": "Salud Cerveceria",
+      "time": "8:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/latinosruncharlotte/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/429881651054167"
+        }
+      ]
+    },
+    {
+      "id": "saturday-latinos-run-charlotte-8-30-a-m-",
+      "day": "Saturday",
+      "name": "Latinos Run Charlotte",
+      "location": "Whitehall Business Park, Charlotte, NC",
+      "time": "8:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/latinosruncharlotte/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/429881651054167"
+        }
+      ]
+    },
+    {
+      "id": "saturday-runs-with-christ-9-00-a-m-",
+      "day": "Saturday",
+      "name": "Runs With Christ",
+      "location": "Platform Coffee + Kitchen, Charlotte, NC",
+      "time": "9:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runwchristclt/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-parkrun-9-00-a-m-",
+      "day": "Saturday",
+      "name": "Parkrun",
+      "location": "Little Sugar Creek Greenway - Sharon Road West Entrance, Charlotte, NC",
+      "time": "9:00 a.m.",
+      "links": [
+        {
+          "label": "Website",
+          "url": "https://www.parkrun.us/littlesugarcreekgreenway/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-mad-miles-run-club-10-00-a-m-",
+      "day": "Saturday",
+      "name": "Mad Miles Run Club",
+      "location": "Elizabeth Park, Charlotte, NC",
+      "time": "10:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/madmilesrunclub/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.madmilesrunclub.com/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-pace-cadets-8-00-p-m-",
+      "day": "Saturday",
+      "name": "Pace Cadets",
+      "location": "Swanee Theater, Kannapolis, NC",
+      "time": "8:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/pacecadetsrc/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-monthly-little-sugar-creek-greenway-run-7-8-a-m-varies",
+      "day": "Saturday - Monthly",
+      "name": "Little Sugar Creek Greenway Run",
+      "location": "Little Sugar Creek Greenway - Park Road Park Entrance, Charlotte, NC",
+      "time": "7 - 8 a.m. varies",
+      "links": [
+        {
+          "label": "Website",
+          "url": "/Little-Sugar-Creek-Greenway-Run"
+        }
+      ]
+    },
+    {
+      "id": "saturday-monthly-mallard-creek-greenway-run-7-8-a-m-varies",
+      "day": "Saturday - Monthly",
+      "name": "Mallard Creek Greenway Run",
+      "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
+      "time": "7 - 8 a.m. varies",
+      "links": [
+        {
+          "label": "Website",
+          "url": "/Mallard-Creek-Greenway-Run"
+        }
+      ]
+    },
+    {
+      "id": "saturday-monthly-cabarrus-can-run-7-or-8-a-m-",
+      "day": "Saturday - Monthly",
+      "name": "Cabarrus Can Run",
+      "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
+      "time": "7 or 8 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/cabarrus_can_run/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1182908559163507"
+        }
+      ]
+    },
+    {
+      "id": "saturday-monthly-black-men-run-8-00-a-m-",
+      "day": "Saturday - Monthly",
+      "name": "Black Men Run",
+      "location": "Charlotte Running Company - Dilworth, Charlotte, NC",
+      "time": "8:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/blackmenrun_clt/"
+        }
+      ]
+    },
+    {
+      "id": "sunday-flying-biscuit-run-club-7-30-a-m-",
+      "day": "Sunday",
+      "name": "Flying Biscuit Run Club",
+      "location": "Flying Biscuit Cafe - Park Road Shopping Center, Charlotte, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/flyingbiscuitrunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1081530682235804"
+        }
+      ]
+    },
+    {
+      "id": "sunday-waxhaw-run-club-7-30-a-m-",
+      "day": "Sunday",
+      "name": "Waxhaw Run Club",
+      "location": "Lot behind Blue Door Deli, Waxhaw, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/waxhawrunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/waxhawrc"
+        }
+      ]
+    },
+    {
+      "id": "sunday-hare-bandits-run-team-8-00-a-m-",
+      "day": "Sunday",
+      "name": "Hare Bandits Run Team",
+      "location": "McAlpine Creek Park, Charlotte, NC",
+      "time": "8:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/harebandits/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.harebandits.org/"
+        }
+      ]
+    },
+    {
+      "id": "sunday-sunday-runday-10-00-a-m-",
+      "day": "Sunday",
+      "name": "Sunday Runday",
+      "location": "Jeni's Ice Cream (South End), Charlotte, NC",
+      "time": "10:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/sundayrundayclt?utm_source=ig_web_button_share_sheet&igsh=ZDNlZDc0MzIxNw"
+        }
+      ]
+    },
+    {
+      "id": "sunday-zoomie-toomey-run-club-pawmotion-10-00-a-m-",
+      "day": "Sunday",
+      "name": "Zoomie Toomey Run Club - Pawmotion",
+      "location": "CMPD Animal Care / Humane Shelter, Charlotte, NC",
+      "time": "10:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/pawmotion_/"
+        }
+      ]
+    },
+    {
+      "id": "sunday-noda-brewing-run-club-12-00-p-m-",
+      "day": "Sunday",
+      "name": "NoDa Brewing Run Club",
+      "location": "NoDa Brewing - North End, Charlotte, NC",
+      "time": "12:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/nodarunclub/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.nodabrewing.com/events"
+        }
+      ]
+    },
+    {
+      "id": "sunday-run-clt-run-club-2-00-p-m-",
+      "day": "Sunday",
+      "name": "RUN CLT Run Club",
+      "location": "Fountain across the street from Kings Court Shopping Center",
+      "time": "2:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/runcltrunclub/"
+        }
+      ]
+    },
+    {
+      "id": "sunday-top-flight-run-crew-3-00-p-m-",
+      "day": "Sunday",
+      "name": "Top Flight Run Crew",
+      "location": "Kirk Farm Fields, Charlotte, NC",
+      "time": "3:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/topflightruncrew/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/TopFlightRunCrew"
+        }
+      ]
+    },
+    {
+      "id": "various-weekly-davidson-area-run-team-dart-various-a-m-",
+      "day": "Various weekly",
+      "name": "Davidson Area Run Team (DART)",
+      "location": "CVS - Downtown, Davidson, NC and other assorted locations",
+      "time": "Various a.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/dartmail"
+        }
+      ]
+    },
+    {
+      "id": "various-weekly-tega-cay-run-club-various-a-m-and-p-m-",
+      "day": "Various weekly",
+      "name": "Tega Cay Run Club",
+      "location": "Model A Brewing, Fort Mill, SC and other assorted locations",
+      "time": "Various a.m. and p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/tegacayrunclub/?hl=en"
+        }
+      ]
+    }
+  ]
+}

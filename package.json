@@ -1,14 +1,12 @@
 {
   "name": "charlotte-run-clubs",
   "version": "1.0.0",
-  "description": "Mobile-first Charlotte run clubs app with live scraping",
-  "main": "server.js",
+  "description": "Mobile-first Charlotte run clubs app for GitHub Pages + daily GitHub Actions scrape",
+  "main": "public/index.html",
   "scripts": {
-    "start": "node server.js",
-    "dev": "node --watch server.js"
+    "scrape": "node scripts/scrape-run-clubs.mjs"
   },
   "dependencies": {
-    "cheerio": "^1.0.0",
-    "express": "^4.21.2"
+    "cheerio": "^1.0.0"
   }
 }
