@@ -1,38 +1,10 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-03-12T10:02:14.305Z",
+  "fetchedAt": "2026-03-13T09:57:26.765Z",
   "count": 99,
   "changes": {
-    "added": [
-      {
-        "id": "sunday-run-clt-run-club-1-30-p-m-",
-        "day": "Sunday",
-        "name": "RUN CLT Run Club",
-        "location": "Fountain across the street from Kings Court Shopping Center",
-        "time": "1:30 p.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/runcltrunclub/"
-          }
-        ]
-      }
-    ],
-    "removed": [
-      {
-        "id": "sunday-run-clt-run-club-2-00-p-m-",
-        "day": "Sunday",
-        "name": "RUN CLT Run Club",
-        "location": "Fountain across the street from Kings Court Shopping Center",
-        "time": "2:00 p.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/runcltrunclub/"
-          }
-        ]
-      }
-    ]
+    "added": [],
+    "removed": []
   },
   "clubs": [
     {
