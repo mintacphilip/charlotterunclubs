@@ -4,7 +4,8 @@
   "description": "Mobile-first Charlotte run clubs app for GitHub Pages + daily GitHub Actions scrape",
   "main": "docs/index.html",
   "scripts": {
-    "scrape": "node scripts/scrape-run-clubs.mjs"
+    "scrape": "node scripts/scrape-run-clubs.mjs",
+    "dev": "npx serve docs --listen 3000"
   },
   "dependencies": {
     "cheerio": "^1.0.0"

@@ -38,11 +38,27 @@ body {
   display: none !important;
 }
 
-.hero h1 {
+.hero-title {
+  display: flex;
+  align-items: center;
+  gap: 12px;
   margin: 40px 4px 18px;
-  font-size: clamp(1.7rem, 6vw, 2.35rem);
+}
+
+.hero-title-icon {
+  width: clamp(44px, 10vw, 56px);
+  height: clamp(44px, 10vw, 56px);
+  flex: 0 0 auto;
+  border-radius: 14px;
+  object-fit: cover;
+}
+
+.hero h1 {
+  margin: 0;
+  font-size: clamp(1.95rem, 6vw, 2.7rem);
   line-height: 1.1;
   letter-spacing: -0.04em;
+  font-weight: 800;
   white-space: nowrap;
 }
 
@@ -350,7 +366,7 @@ body {
     padding-top: 18px;
   }
 
-  .hero h1 {
+  .hero-title {
     margin-top: 16px;
   }
 }
