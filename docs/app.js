@@ -112,6 +112,7 @@ const searchInput = document.getElementById('searchInput');
 const statusText = document.getElementById('statusText');
 const listView = document.getElementById('listView');
 const detailView = document.getElementById('detailView');
+const trackView = document.getElementById('trackView');
 const backButton = document.getElementById('backButton');
 const detailTitle = document.getElementById('detailTitle');
 const detailAvatar = document.getElementById('detailAvatar');
@@ -126,6 +127,8 @@ const mapsSubtitle = document.getElementById('mapsSubtitle');
 const openAppleMaps = document.getElementById('openAppleMaps');
 const openGoogleMaps = document.getElementById('openGoogleMaps');
 const closeMapsModal = document.getElementById('closeMapsModal');
+const clubsTabButton = document.getElementById('clubsTabButton');
+const trackTabButton = document.getElementById('trackTabButton');
 
 const INSTAGRAM_ICON = '/assets/clubs/InstagramIcon.jpg';
 const FACEBOOK_ICON = '/assets/clubs/Facebook.jpg';
@@ -237,18 +240,63 @@ function getClubIdFromRoute() {
   return params.get('club');
 }
 
-function setClubRoute(clubId, mode = 'push') {
+function getTabFromRoute() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get('tab') === 'track' ? 'track' : 'clubs';
+}
+
+function setRoute({ clubId = '', tab = 'clubs' }, mode = 'push') {
   const url = new URL(window.location.href);
-  if (clubId) {
-    url.searchParams.set('club', clubId);
-  } else {
+
+  if (tab === 'track') {
+    url.searchParams.set('tab', 'track');
     url.searchParams.delete('club');
+  } else {
+    url.searchParams.delete('tab');
+    if (clubId) {
+      url.searchParams.set('club', clubId);
+    } else {
+      url.searchParams.delete('club');
+    }
   }
+
   if (mode === 'replace') {
     window.history.replaceState({}, '', url);
   } else {
     window.history.pushState({}, '', url);
   }
+}
+
+function setClubRoute(clubId, mode = 'push') {
+  setRoute({ clubId, tab: 'clubs' }, mode);
+}
+
+function setTabRoute(tab, mode = 'push') {
+  const currentClubId = getClubIdFromRoute();
+  setRoute({ clubId: currentClubId, tab }, mode);
+}
+
+function setActiveTab(tab) {
+  clubsTabButton.classList.toggle('is-active', tab === 'clubs');
+  trackTabButton.classList.toggle('is-active', tab === 'track');
+}
+
+function showTrackView() {
+  listView.classList.add('hidden');
+  detailView.classList.add('hidden');
+  trackView.classList.remove('hidden');
+}
+
+function showListView() {
+  detailView.classList.add('hidden');
+  trackView.classList.add('hidden');
+  listView.classList.remove('hidden');
+}
+
+function showDetailView() {
+  listView.classList.add('hidden');
+  trackView.classList.add('hidden');
+  detailView.classList.remove('hidden');
 }
 
 function extractSocialLinks(club) {
@@ -299,16 +347,6 @@ function openDirections(appType) {
   closeMapModal();
 }
 
-function showListView() {
-  detailView.classList.add('hidden');
-  listView.classList.remove('hidden');
-}
-
-function showDetailView() {
-  listView.classList.add('hidden');
-  detailView.classList.remove('hidden');
-}
-
 function renderDetail(club) {
   const thumbnail = getThumbnailForClub(club.name);
   const initials = getInitials(club.name);
@@ -353,6 +391,14 @@ function renderDetail(club) {
 }
 
 function renderRoute() {
+  const tab = getTabFromRoute();
+  setActiveTab(tab);
+
+  if (tab === 'track') {
+    showTrackView();
+    return;
+  }
+
   const clubId = getClubIdFromRoute();
   if (!clubId) {
     showListView();
@@ -475,6 +521,16 @@ detailLocation.addEventListener('click', () => {
 
 backButton.addEventListener('click', () => {
   setClubRoute('');
+  renderRoute();
+});
+
+clubsTabButton.addEventListener('click', () => {
+  setTabRoute('clubs');
+  renderRoute();
+});
+
+trackTabButton.addEventListener('click', () => {
+  setTabRoute('track');
   renderRoute();
 });
 
