@@ -1,38 +1,10 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-04-11T09:58:12.161Z",
+  "fetchedAt": "2026-04-12T10:02:47.216Z",
   "count": 99,
   "changes": {
-    "added": [
-      {
-        "id": "thursday-morning-miles-clt-6-00-a-m-",
-        "day": "Thursday",
-        "name": "Morning Miles CLT",
-        "location": "Giddy Goat Coffee Roasters, Charlotte, NC",
-        "time": "6:00 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/morningmiles_official/"
-          }
-        ]
-      }
-    ],
-    "removed": [
-      {
-        "id": "thursday-morning-miles-clt-6-00-a-m-",
-        "day": "Thursday",
-        "name": "Morning Miles CLT",
-        "location": "Backyard Brew, Charlotte, NC",
-        "time": "6:00 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/morningmiles_official/"
-          }
-        ]
-      }
-    ]
+    "added": [],
+    "removed": []
   },
   "clubs": [
     {
