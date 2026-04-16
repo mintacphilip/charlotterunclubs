@@ -1,10 +1,121 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-04-15T10:38:58.544Z",
-  "count": 99,
+  "fetchedAt": "2026-04-16T10:41:10.306Z",
+  "count": 100,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "wednesday-latinos-run-charlotte-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "Latinos Run Charlotte",
+        "location": "Maiz, Agua y Sal",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      },
+      {
+        "id": "saturday-latinos-run-charlotte-8-00-a-m-",
+        "day": "Saturday",
+        "name": "Latinos Run Charlotte",
+        "location": "Maiz, Agua y Sal",
+        "time": "8:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      },
+      {
+        "id": "saturday-latinos-run-charlotte-9-00-a-m-",
+        "day": "Saturday",
+        "name": "Latinos Run Charlotte",
+        "location": "Whitehall Business Park, Charlotte, NC",
+        "time": "9:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "saturday-latinos-run-charlotte-8-00-a-m-",
+        "day": "Saturday",
+        "name": "Latinos Run Charlotte",
+        "location": "Salud Cerveceria",
+        "time": "8:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          }
+        ]
+      },
+      {
+        "id": "saturday-latinos-run-charlotte-8-30-a-m-",
+        "day": "Saturday",
+        "name": "Latinos Run Charlotte",
+        "location": "Whitehall Business Park, Charlotte, NC",
+        "time": "8:30 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -711,6 +822,31 @@
       ]
     },
     {
+      "id": "wednesday-latinos-run-charlotte-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Latinos Run Charlotte",
+      "location": "Maiz, Agua y Sal",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/latinosruncharlotte/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/429881651054167"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.latinosrun.com/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/1oH8bw3ge0b"
+        }
+      ]
+    },
+    {
       "id": "thursday-hillz-4-breakfast-hillz4bfast-5-00-a-m-",
       "day": "Thursday",
       "name": "Hillz 4 Breakfast (HILLZ4BFAST)",
@@ -1167,7 +1303,7 @@
       "id": "saturday-latinos-run-charlotte-8-00-a-m-",
       "day": "Saturday",
       "name": "Latinos Run Charlotte",
-      "location": "Salud Cerveceria",
+      "location": "Maiz, Agua y Sal",
       "time": "8:00 a.m.",
       "links": [
         {
@@ -1177,15 +1313,23 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/groups/429881651054167"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.latinosrun.com/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/1oH8bw3ge0b"
         }
       ]
     },
     {
-      "id": "saturday-latinos-run-charlotte-8-30-a-m-",
+      "id": "saturday-latinos-run-charlotte-9-00-a-m-",
       "day": "Saturday",
       "name": "Latinos Run Charlotte",
       "location": "Whitehall Business Park, Charlotte, NC",
-      "time": "8:30 a.m.",
+      "time": "9:00 a.m.",
       "links": [
         {
           "label": "Instagram",
@@ -1194,6 +1338,14 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/groups/429881651054167"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.latinosrun.com/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/1oH8bw3ge0b"
         }
       ]
     },
