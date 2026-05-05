@@ -1,23 +1,9 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-05-04T11:18:37.997Z",
+  "fetchedAt": "2026-05-05T10:55:38.995Z",
   "count": 101,
   "changes": {
-    "added": [
-      {
-        "id": "saturday-good-people-run-club-9-00-a-m-",
-        "day": "Saturday",
-        "name": "Good People Run Club",
-        "location": "Bell Tower Green, Salisbury, NC",
-        "time": "9:00 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/goodpeople_runclub/"
-          }
-        ]
-      }
-    ],
+    "added": [],
     "removed": []
   },
   "clubs": [
