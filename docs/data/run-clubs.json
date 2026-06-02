@@ -1,10 +1,68 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-06-01T15:32:49.173Z",
-  "count": 101,
+  "fetchedAt": "2026-06-02T12:52:17.170Z",
+  "count": 103,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
+        "day": "Monday",
+        "name": "Charlotte Ladies Morning Run Club",
+        "location": "Former Bitty & Beau's - South End, Charlotte NC",
+        "time": "6:15 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/morning.runclub/"
+          }
+        ]
+      },
+      {
+        "id": "friday-nightclubs-suck-7-00-p-m-",
+        "day": "Friday",
+        "name": "Nightclubs Suck",
+        "location": "Octane Park Unit 25, Mooresville, NC",
+        "time": "7:00 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/nightclubssuck/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/Abfca15SD3b"
+          }
+        ]
+      },
+      {
+        "id": "saturday-salted-melon-run-club-7-00-a-m-",
+        "day": "Saturday",
+        "name": "Salted Melon Run Club",
+        "location": "Salted Melon Eastover, Charlotte, NC",
+        "time": "7:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/crossconditioningtraining/"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
+        "day": "Monday",
+        "name": "Charlotte Ladies Morning Run Club",
+        "location": "Bitty & Beau's - South End, Charlotte NC",
+        "time": "6:15 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/morning.runclub/"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -24,7 +82,7 @@
       "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
       "day": "Monday",
       "name": "Charlotte Ladies Morning Run Club",
-      "location": "Bitty & Beau's - South End, Charlotte NC",
+      "location": "Former Bitty & Beau's - South End, Charlotte NC",
       "time": "6:15 a.m.",
       "links": [
         {
@@ -1133,6 +1191,23 @@
       ]
     },
     {
+      "id": "friday-nightclubs-suck-7-00-p-m-",
+      "day": "Friday",
+      "name": "Nightclubs Suck",
+      "location": "Octane Park Unit 25, Mooresville, NC",
+      "time": "7:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/nightclubssuck/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/Abfca15SD3b"
+        }
+      ]
+    },
+    {
       "id": "saturday-belmont-run-club-7-00-a-m-",
       "day": "Saturday",
       "name": "Belmont Run Club",
@@ -1159,6 +1234,19 @@
         {
           "label": "Group Me",
           "url": "https://groupme.com/join_group/92337432/rP6i8FyC"
+        }
+      ]
+    },
+    {
+      "id": "saturday-salted-melon-run-club-7-00-a-m-",
+      "day": "Saturday",
+      "name": "Salted Melon Run Club",
+      "location": "Salted Melon Eastover, Charlotte, NC",
+      "time": "7:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/crossconditioningtraining/"
         }
       ]
     },
