@@ -1,68 +1,24 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-06-02T12:52:17.170Z",
-  "count": 103,
+  "fetchedAt": "2026-06-03T14:07:57.517Z",
+  "count": 104,
   "changes": {
     "added": [
       {
-        "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
-        "day": "Monday",
-        "name": "Charlotte Ladies Morning Run Club",
-        "location": "Former Bitty & Beau's - South End, Charlotte NC",
-        "time": "6:15 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/morning.runclub/"
-          }
-        ]
-      },
-      {
-        "id": "friday-nightclubs-suck-7-00-p-m-",
-        "day": "Friday",
-        "name": "Nightclubs Suck",
-        "location": "Octane Park Unit 25, Mooresville, NC",
-        "time": "7:00 p.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/nightclubssuck/"
-          },
-          {
-            "label": "Strava",
-            "url": "https://strava.app.link/Abfca15SD3b"
-          }
-        ]
-      },
-      {
-        "id": "saturday-salted-melon-run-club-7-00-a-m-",
+        "id": "saturday-achilles-charlotte-7-30-a-m-",
         "day": "Saturday",
-        "name": "Salted Melon Run Club",
-        "location": "Salted Melon Eastover, Charlotte, NC",
-        "time": "7:00 a.m.",
+        "name": "Achilles Charlotte",
+        "location": "Freedom Park, Charlotte, NC",
+        "time": "7:30 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/crossconditioningtraining/"
+            "url": "https://www.instagram.com/achillescharlotte/"
           }
         ]
       }
     ],
-    "removed": [
-      {
-        "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
-        "day": "Monday",
-        "name": "Charlotte Ladies Morning Run Club",
-        "location": "Bitty & Beau's - South End, Charlotte NC",
-        "time": "6:15 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/morning.runclub/"
-          }
-        ]
-      }
-    ]
+    "removed": []
   },
   "clubs": [
     {
@@ -1298,6 +1254,19 @@
         {
           "label": "Strava",
           "url": "https://strava.app.link/1oH8bw3ge0b"
+        }
+      ]
+    },
+    {
+      "id": "saturday-achilles-charlotte-7-30-a-m-",
+      "day": "Saturday",
+      "name": "Achilles Charlotte",
+      "location": "Freedom Park, Charlotte, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/achillescharlotte/"
         }
       ]
     },
