@@ -1,10 +1,42 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-06-30T11:51:56.421Z",
+  "fetchedAt": "2026-07-01T12:17:17.724Z",
   "count": 104,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "wednesday-goats-the-plaza-6-30-a-m-",
+        "day": "Wednesday",
+        "name": "Goats @ the Plaza",
+        "location": "Giddy Goat Coffee Roasters, Charlotte, NC",
+        "time": "6:30 a.m.",
+        "links": [
+          {
+            "label": "Website",
+            "url": "https://swissman1.github.io/GoatsAtPlaza/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/clubs/2208596"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "wednesday-charlotte-runners-united-6-30-a-m-",
+        "day": "Wednesday",
+        "name": "Charlotte Runners United",
+        "location": "Giddy Goat Coffee Roasters, Charlotte, NC",
+        "time": "6:30 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/charlotterunnersunited/"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -418,15 +450,19 @@
       ]
     },
     {
-      "id": "wednesday-charlotte-runners-united-6-30-a-m-",
+      "id": "wednesday-goats-the-plaza-6-30-a-m-",
       "day": "Wednesday",
-      "name": "Charlotte Runners United",
+      "name": "Goats @ the Plaza",
       "location": "Giddy Goat Coffee Roasters, Charlotte, NC",
       "time": "6:30 a.m.",
       "links": [
         {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/charlotterunnersunited/"
+          "label": "Website",
+          "url": "https://swissman1.github.io/GoatsAtPlaza/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/2208596"
         }
       ]
     },
