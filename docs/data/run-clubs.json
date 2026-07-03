@@ -1,9 +1,40 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-07-02T11:43:37.725Z",
-  "count": 104,
+  "fetchedAt": "2026-07-03T11:41:53.746Z",
+  "count": 106,
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "thursday-rosemont-runners-6-00-p-m-",
+        "day": "Thursday",
+        "name": "Rosemont Runners",
+        "location": "Rosemont, Charlotte, NC",
+        "time": "6:00 p.m.",
+        "links": [
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/routes/3491185996075503884"
+          }
+        ]
+      },
+      {
+        "id": "friday-mint-2-run-6-00-a-m-",
+        "day": "Friday",
+        "name": "Mint 2 Run",
+        "location": "Harris Teeter lot, Mint Hill, NC",
+        "time": "6:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/mint2run?igsh=MW9tYmR2YXFoODdiOA%3D%3D&utm_source=qr"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/99lpINR26Zb"
+          }
+        ]
+      }
+    ],
     "removed": []
   },
   "clubs": [
@@ -178,6 +209,10 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/groups/1321662397996977/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/matthewsrunclub?share_sig=E84A3EDE1769302328&_branch_match_id=1591043615315275540&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXLy4pSixL1EssKNDLyczL1jdIS%2FELDw52TTZIsq8rSk1LLSrKzEuPTyrKLy9OLbJ1zijKz00FAAxKTqk9AAAA"
         }
       ]
     },
@@ -876,6 +911,19 @@
       ]
     },
     {
+      "id": "thursday-rosemont-runners-6-00-p-m-",
+      "day": "Thursday",
+      "name": "Rosemont Runners",
+      "location": "Rosemont, Charlotte, NC",
+      "time": "6:00 p.m.",
+      "links": [
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/routes/3491185996075503884"
+        }
+      ]
+    },
+    {
       "id": "thursday-cabarrus-brewing-run-club-6-15-p-m-",
       "day": "Thursday",
       "name": "Cabarrus Brewing Run Club",
@@ -1133,6 +1181,23 @@
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/blackmenrun_clt/"
+        }
+      ]
+    },
+    {
+      "id": "friday-mint-2-run-6-00-a-m-",
+      "day": "Friday",
+      "name": "Mint 2 Run",
+      "location": "Harris Teeter lot, Mint Hill, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/mint2run?igsh=MW9tYmR2YXFoODdiOA%3D%3D&utm_source=qr"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/99lpINR26Zb"
         }
       ]
     },
