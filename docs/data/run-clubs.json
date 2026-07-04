@@ -1,40 +1,9 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-07-03T11:41:53.746Z",
+  "fetchedAt": "2026-07-04T11:01:18.097Z",
   "count": 106,
   "changes": {
-    "added": [
-      {
-        "id": "thursday-rosemont-runners-6-00-p-m-",
-        "day": "Thursday",
-        "name": "Rosemont Runners",
-        "location": "Rosemont, Charlotte, NC",
-        "time": "6:00 p.m.",
-        "links": [
-          {
-            "label": "Strava",
-            "url": "https://www.strava.com/routes/3491185996075503884"
-          }
-        ]
-      },
-      {
-        "id": "friday-mint-2-run-6-00-a-m-",
-        "day": "Friday",
-        "name": "Mint 2 Run",
-        "location": "Harris Teeter lot, Mint Hill, NC",
-        "time": "6:00 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/mint2run?igsh=MW9tYmR2YXFoODdiOA%3D%3D&utm_source=qr"
-          },
-          {
-            "label": "Strava",
-            "url": "https://strava.app.link/99lpINR26Zb"
-          }
-        ]
-      }
-    ],
+    "added": [],
     "removed": []
   },
   "clubs": [
