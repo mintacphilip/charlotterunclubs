@@ -1,10 +1,46 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-07-08T11:18:17.483Z",
+  "fetchedAt": "2026-07-09T12:20:53.312Z",
   "count": 106,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "saturday-monthly-cabarrus-can-run-7-a-m-",
+        "day": "Saturday - Monthly",
+        "name": "Cabarrus Can Run",
+        "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
+        "time": "7 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/cabarrus_can_run/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/1182908559163507"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "saturday-monthly-cabarrus-can-run-7-or-8-a-m-",
+        "day": "Saturday - Monthly",
+        "name": "Cabarrus Can Run",
+        "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
+        "time": "7 or 8 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/cabarrus_can_run/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/1182908559163507"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -1415,11 +1451,11 @@
       ]
     },
     {
-      "id": "saturday-monthly-cabarrus-can-run-7-or-8-a-m-",
+      "id": "saturday-monthly-cabarrus-can-run-7-a-m-",
       "day": "Saturday - Monthly",
       "name": "Cabarrus Can Run",
       "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
-      "time": "7 or 8 a.m.",
+      "time": "7 a.m.",
       "links": [
         {
           "label": "Instagram",
