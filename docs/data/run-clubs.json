@@ -1,42 +1,20 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-07-09T12:20:53.312Z",
-  "count": 106,
+  "fetchedAt": "2026-07-10T12:08:36.173Z",
+  "count": 105,
   "changes": {
-    "added": [
-      {
-        "id": "saturday-monthly-cabarrus-can-run-7-a-m-",
-        "day": "Saturday - Monthly",
-        "name": "Cabarrus Can Run",
-        "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
-        "time": "7 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/cabarrus_can_run/"
-          },
-          {
-            "label": "Facebook",
-            "url": "https://www.facebook.com/groups/1182908559163507"
-          }
-        ]
-      }
-    ],
+    "added": [],
     "removed": [
       {
-        "id": "saturday-monthly-cabarrus-can-run-7-or-8-a-m-",
-        "day": "Saturday - Monthly",
-        "name": "Cabarrus Can Run",
-        "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
-        "time": "7 or 8 a.m.",
+        "id": "wednesday-moms-in-motion-9-30-a-m-",
+        "day": "Wednesday",
+        "name": "Moms in Motion",
+        "location": "Motion Fitness (Southpark), Charlotte, NC",
+        "time": "9:30 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/cabarrus_can_run/"
-          },
-          {
-            "label": "Facebook",
-            "url": "https://www.facebook.com/groups/1182908559163507"
+            "url": "https://www.instagram.com/momsinmotion25/"
           }
         ]
       }
@@ -488,19 +466,6 @@
         {
           "label": "Website",
           "url": "/CRC-Trail-Wednesdays"
-        }
-      ]
-    },
-    {
-      "id": "wednesday-moms-in-motion-9-30-a-m-",
-      "day": "Wednesday",
-      "name": "Moms in Motion",
-      "location": "Motion Fitness (Southpark), Charlotte, NC",
-      "time": "9:30 a.m.",
-      "links": [
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/momsinmotion25/"
         }
       ]
     },
