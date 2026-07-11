@@ -1,24 +1,10 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-07-10T12:08:36.173Z",
+  "fetchedAt": "2026-07-11T10:34:45.770Z",
   "count": 105,
   "changes": {
     "added": [],
-    "removed": [
-      {
-        "id": "wednesday-moms-in-motion-9-30-a-m-",
-        "day": "Wednesday",
-        "name": "Moms in Motion",
-        "location": "Motion Fitness (Southpark), Charlotte, NC",
-        "time": "9:30 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/momsinmotion25/"
-          }
-        ]
-      }
-    ]
+    "removed": []
   },
   "clubs": [
     {
