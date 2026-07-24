@@ -1,10 +1,167 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-07-23T11:20:33.411Z",
-  "count": 105,
+  "fetchedAt": "2026-07-24T11:12:50.327Z",
+  "count": 106,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "monday-percent-run-club-6-30-p-m-",
+        "day": "Monday",
+        "name": "Percent Run Club",
+        "location": "Percent Tap House, Harrisburg, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/percent_runclub/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/1300338341037396"
+          },
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/clubs/PercentRunClub"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-rise-run-club-5-30-a-m-",
+        "day": "Wednesday",
+        "name": "Rise & Run Club",
+        "location": "Humble Cup Coffee - Fort Mill, SC",
+        "time": "5:30 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/riseandrunclub.fm/"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-latinos-run-charlotte-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "Latinos Run Charlotte",
+        "location": "Maiz, Agua y Sal, Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      },
+      {
+        "id": "saturday-latinos-run-charlotte-8-00-a-m-",
+        "day": "Saturday",
+        "name": "Latinos Run Charlotte",
+        "location": "Maiz, Agua y Sal, Charlotte, NC",
+        "time": "8:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "monday-percent-run-club-6-30-p-m-",
+        "day": "Monday",
+        "name": "Percent Run Club",
+        "location": "Percent Tap House",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/percent_runclub/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/1300338341037396"
+          },
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/clubs/PercentRunClub"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-latinos-run-charlotte-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "Latinos Run Charlotte",
+        "location": "Maiz, Agua y Sal",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      },
+      {
+        "id": "saturday-latinos-run-charlotte-8-00-a-m-",
+        "day": "Saturday",
+        "name": "Latinos Run Charlotte",
+        "location": "Maiz, Agua y Sal",
+        "time": "8:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/latinosruncharlotte/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/429881651054167"
+          },
+          {
+            "label": "Website",
+            "url": "https://www.latinosrun.com/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/1oH8bw3ge0b"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -96,7 +253,7 @@
       "id": "monday-percent-run-club-6-30-p-m-",
       "day": "Monday",
       "name": "Percent Run Club",
-      "location": "Percent Tap House",
+      "location": "Percent Tap House, Harrisburg, NC",
       "time": "6:30 p.m.",
       "links": [
         {
@@ -409,6 +566,19 @@
       ]
     },
     {
+      "id": "wednesday-rise-run-club-5-30-a-m-",
+      "day": "Wednesday",
+      "name": "Rise & Run Club",
+      "location": "Humble Cup Coffee - Fort Mill, SC",
+      "time": "5:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/riseandrunclub.fm/"
+        }
+      ]
+    },
+    {
       "id": "wednesday-south-end-coffee-run-6-30-a-m-",
       "day": "Wednesday",
       "name": "South End Coffee Run",
@@ -709,7 +879,7 @@
       "id": "wednesday-latinos-run-charlotte-6-30-p-m-",
       "day": "Wednesday",
       "name": "Latinos Run Charlotte",
-      "location": "Maiz, Agua y Sal",
+      "location": "Maiz, Agua y Sal, Charlotte, NC",
       "time": "6:30 p.m.",
       "links": [
         {
@@ -1247,7 +1417,7 @@
       "id": "saturday-latinos-run-charlotte-8-00-a-m-",
       "day": "Saturday",
       "name": "Latinos Run Charlotte",
-      "location": "Maiz, Agua y Sal",
+      "location": "Maiz, Agua y Sal, Charlotte, NC",
       "time": "8:00 a.m.",
       "links": [
         {
