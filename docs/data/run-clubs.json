@@ -1,10 +1,231 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-08-24T10:05:41.482Z",
-  "count": 106,
+  "fetchedAt": "2026-08-25T09:52:25.893Z",
+  "count": 109,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "monday-charlotte-ladies-only-morning-run-club-6-15-a-m-",
+        "day": "Monday",
+        "name": "Charlotte Ladies Only Morning Run Club",
+        "location": "Former Bitty & Beau's - South End, Charlotte NC",
+        "time": "6:15 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/morning.runclub/"
+          }
+        ]
+      },
+      {
+        "id": "monday-seasonal-kannapolis-run-crew-6-00-p-m-",
+        "day": "Monday (seasonal)",
+        "name": "Kannapolis Run Crew",
+        "location": "High Performance Training, Kannapolis, NC",
+        "time": "6:00 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/kannapolisruncrew/"
+          }
+        ]
+      },
+      {
+        "id": "monday-old-armor-run-club-6-30-p-m-",
+        "day": "Monday",
+        "name": "Old Armor Run Club",
+        "location": "Old Armor Brewing, Kannapolis, NC",
+        "time": "6:30 p.m.",
+        "links": []
+      },
+      {
+        "id": "monday-mad-miles-run-club-6-30-p-m-",
+        "day": "Monday",
+        "name": "Mad Miles Run Club",
+        "location": "Social Status Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": []
+      },
+      {
+        "id": "wednesday-queen-city-mother-runners-6-00-a-m-",
+        "day": "Wednesday",
+        "name": "Queen City Mother Runners",
+        "location": "Summit Coffee - Davidson, NC",
+        "time": "6:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/queencitymotherrunners/"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-frank-s-beer-shop-run-and-walk-dog-friendly-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "Frank's Beer Shop Run and Walk *dog friendly",
+        "location": "Frank's Beer Shop, Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/franks.beer.shop/"
+          }
+        ]
+      },
+      {
+        "id": "thursday-south-fork-run-club-6-15-p-m-",
+        "day": "Thursday",
+        "name": "South Fork Run Club",
+        "location": "Confluence, Cramerton, NC",
+        "time": "6:15 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/confluencesouthfork/"
+          }
+        ]
+      },
+      {
+        "id": "thursday-seasonal-may-thru-sept-river-jam-run-club-6-30-p-m-",
+        "day": "Thursday Seasonal (May thru Sept)",
+        "name": "River Jam Run Club",
+        "location": "U.S. National Whitewater Center, Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Website",
+            "url": "https://whitewater.org/events-races/river-jam/"
+          }
+        ]
+      },
+      {
+        "id": "saturday-charlotte-front-runners-walkers-9-00-a-m-",
+        "day": "Saturday",
+        "name": "Charlotte Front Runners & Walkers",
+        "location": "Common Market - South End, Charlotte, NC",
+        "time": "9:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/charlottefrontrunners"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/CharlotteFrontRunners"
+          }
+        ]
+      },
+      {
+        "id": "sunday-queen-city-mother-runners-7-30-a-m-",
+        "day": "Sunday",
+        "name": "Queen City Mother Runners",
+        "location": "Summit Coffee - Davidson, NC",
+        "time": "7:30 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/queencitymotherrunners/"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
+        "day": "Monday",
+        "name": "Charlotte Ladies Morning Run Club",
+        "location": "Former Bitty & Beau's - South End, Charlotte NC",
+        "time": "6:15 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/morning.runclub/"
+          }
+        ]
+      },
+      {
+        "id": "monday-kannapolis-run-crew-6-00-p-m-",
+        "day": "Monday",
+        "name": "Kannapolis Run Crew",
+        "location": "High Performance Training, Kannapolis, NC",
+        "time": "6:00 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/kannapolisruncrew/"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-frank-s-beer-shop-run-and-walk-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "Frank's Beer Shop Run and Walk",
+        "location": "Frank's Beer Shop, Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/franks.beer.shop/"
+          }
+        ]
+      },
+      {
+        "id": "thursday-new-sarum-run-club-6-00-p-m-",
+        "day": "Thursday",
+        "name": "New Sarum Run Club",
+        "location": "New Sarum Brewing, Salisbury, NC",
+        "time": "6:00 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/newsarumbrewing_runclub/"
+          },
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/nsbrunclub"
+          }
+        ]
+      },
+      {
+        "id": "thursday-north-end-run-club-6-30-p-m-",
+        "day": "Thursday",
+        "name": "North End Run Club",
+        "location": "Petty Thieves Brewing, Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/northendrunclub/"
+          }
+        ]
+      },
+      {
+        "id": "thursday-south-fork-run-club-6-30-p-m-",
+        "day": "Thursday",
+        "name": "South Fork Run Club",
+        "location": "Confluence, Cramerton, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/confluencesouthfork/"
+          }
+        ]
+      },
+      {
+        "id": "saturday-pace-cadets-8-00-p-m-",
+        "day": "Saturday",
+        "name": "Pace Cadets",
+        "location": "Swanee Theater, Kannapolis, NC",
+        "time": "8:00 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/pacecadetsracing/"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -21,9 +242,9 @@
       ]
     },
     {
-      "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
+      "id": "monday-charlotte-ladies-only-morning-run-club-6-15-a-m-",
       "day": "Monday",
-      "name": "Charlotte Ladies Morning Run Club",
+      "name": "Charlotte Ladies Only Morning Run Club",
       "location": "Former Bitty & Beau's - South End, Charlotte NC",
       "time": "6:15 a.m.",
       "links": [
@@ -55,8 +276,8 @@
       ]
     },
     {
-      "id": "monday-kannapolis-run-crew-6-00-p-m-",
-      "day": "Monday",
+      "id": "monday-seasonal-kannapolis-run-crew-6-00-p-m-",
+      "day": "Monday (seasonal)",
       "name": "Kannapolis Run Crew",
       "location": "High Performance Training, Kannapolis, NC",
       "time": "6:00 p.m.",
@@ -90,7 +311,12 @@
       "name": "Ames Street Run/Walk Club",
       "location": "Ames Street Marketplace, Matthews, NC",
       "time": "6:15 p.m.",
-      "links": []
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/1755601238668682"
+        }
+      ]
     },
     {
       "id": "monday-percent-run-club-6-30-p-m-",
@@ -197,6 +423,22 @@
           "url": "https://www.instagram.com/blackmenrun_clt/"
         }
       ]
+    },
+    {
+      "id": "monday-old-armor-run-club-6-30-p-m-",
+      "day": "Monday",
+      "name": "Old Armor Run Club",
+      "location": "Old Armor Brewing, Kannapolis, NC",
+      "time": "6:30 p.m.",
+      "links": []
+    },
+    {
+      "id": "monday-mad-miles-run-club-6-30-p-m-",
+      "day": "Monday",
+      "name": "Mad Miles Run Club",
+      "location": "Social Status Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": []
     },
     {
       "id": "tuesday-highland-creek-run-crew-5-30-a-m-",
@@ -422,6 +664,19 @@
       ]
     },
     {
+      "id": "wednesday-queen-city-mother-runners-6-00-a-m-",
+      "day": "Wednesday",
+      "name": "Queen City Mother Runners",
+      "location": "Summit Coffee - Davidson, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/queencitymotherrunners/"
+        }
+      ]
+    },
+    {
       "id": "wednesday-south-end-coffee-run-6-30-a-m-",
       "day": "Wednesday",
       "name": "South End Coffee Run",
@@ -495,6 +750,10 @@
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/southernstrainrunclub/"
+        },
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/2349100511824886"
         }
       ]
     },
@@ -680,9 +939,9 @@
       ]
     },
     {
-      "id": "wednesday-frank-s-beer-shop-run-and-walk-6-30-p-m-",
+      "id": "wednesday-frank-s-beer-shop-run-and-walk-dog-friendly-6-30-p-m-",
       "day": "Wednesday",
-      "name": "Frank's Beer Shop Run and Walk",
+      "name": "Frank's Beer Shop Run and Walk *dog friendly",
       "location": "Frank's Beer Shop, Charlotte, NC",
       "time": "6:30 p.m.",
       "links": [
@@ -863,23 +1122,6 @@
       ]
     },
     {
-      "id": "thursday-new-sarum-run-club-6-00-p-m-",
-      "day": "Thursday",
-      "name": "New Sarum Run Club",
-      "location": "New Sarum Brewing, Salisbury, NC",
-      "time": "6:00 p.m.",
-      "links": [
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/newsarumbrewing_runclub/"
-        },
-        {
-          "label": "Facebook",
-          "url": "https://www.facebook.com/nsbrunclub"
-        }
-      ]
-    },
-    {
       "id": "thursday-rosemont-runners-6-00-p-m-",
       "day": "Thursday",
       "name": "Rosemont Runners",
@@ -936,6 +1178,19 @@
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/704runclub/?hl=en"
+        }
+      ]
+    },
+    {
+      "id": "thursday-south-fork-run-club-6-15-p-m-",
+      "day": "Thursday",
+      "name": "South Fork Run Club",
+      "location": "Confluence, Cramerton, NC",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/confluencesouthfork/"
         }
       ]
     },
@@ -1068,28 +1323,15 @@
       ]
     },
     {
-      "id": "thursday-north-end-run-club-6-30-p-m-",
-      "day": "Thursday",
-      "name": "North End Run Club",
-      "location": "Petty Thieves Brewing, Charlotte, NC",
+      "id": "thursday-seasonal-may-thru-sept-river-jam-run-club-6-30-p-m-",
+      "day": "Thursday Seasonal (May thru Sept)",
+      "name": "River Jam Run Club",
+      "location": "U.S. National Whitewater Center, Charlotte, NC",
       "time": "6:30 p.m.",
       "links": [
         {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/northendrunclub/"
-        }
-      ]
-    },
-    {
-      "id": "thursday-south-fork-run-club-6-30-p-m-",
-      "day": "Thursday",
-      "name": "South Fork Run Club",
-      "location": "Confluence, Cramerton, NC",
-      "time": "6:30 p.m.",
-      "links": [
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/confluencesouthfork/"
+          "label": "Website",
+          "url": "https://whitewater.org/events-races/river-jam/"
         }
       ]
     },
@@ -1244,6 +1486,19 @@
       ]
     },
     {
+      "id": "saturday-achilles-charlotte-7-30-a-m-",
+      "day": "Saturday",
+      "name": "Achilles Charlotte",
+      "location": "Freedom Park, Charlotte, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/achillescharlotte/"
+        }
+      ]
+    },
+    {
       "id": "saturday-charlotte-urban-runners-8-00-a-m-",
       "day": "Saturday",
       "name": "Charlotte Urban Runners",
@@ -1278,19 +1533,6 @@
         {
           "label": "Strava",
           "url": "https://strava.app.link/1oH8bw3ge0b"
-        }
-      ]
-    },
-    {
-      "id": "saturday-achilles-charlotte-7-30-a-m-",
-      "day": "Saturday",
-      "name": "Achilles Charlotte",
-      "location": "Freedom Park, Charlotte, NC",
-      "time": "7:30 a.m.",
-      "links": [
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/achillescharlotte/"
         }
       ]
     },
@@ -1346,32 +1588,19 @@
       ]
     },
     {
-      "id": "saturday-mad-miles-run-club-10-00-a-m-",
+      "id": "saturday-charlotte-front-runners-walkers-9-00-a-m-",
       "day": "Saturday",
-      "name": "Mad Miles Run Club",
-      "location": "Elizabeth Park, Charlotte, NC",
-      "time": "10:00 a.m.",
+      "name": "Charlotte Front Runners & Walkers",
+      "location": "Common Market - South End, Charlotte, NC",
+      "time": "9:00 a.m.",
       "links": [
         {
           "label": "Instagram",
-          "url": "https://www.instagram.com/madmilesrunclub/"
+          "url": "https://www.instagram.com/charlottefrontrunners"
         },
         {
-          "label": "Website",
-          "url": "https://www.madmilesrunclub.com/"
-        }
-      ]
-    },
-    {
-      "id": "saturday-pace-cadets-8-00-p-m-",
-      "day": "Saturday",
-      "name": "Pace Cadets",
-      "location": "Swanee Theater, Kannapolis, NC",
-      "time": "8:00 p.m.",
-      "links": [
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/pacecadetsracing/"
+          "label": "Facebook",
+          "url": "https://www.facebook.com/CharlotteFrontRunners"
         }
       ]
     },
@@ -1385,6 +1614,23 @@
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/goodpeople_runclub/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-mad-miles-run-club-10-00-a-m-",
+      "day": "Saturday",
+      "name": "Mad Miles Run Club",
+      "location": "Elizabeth Park, Charlotte, NC",
+      "time": "10:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/madmilesrunclub/"
+        },
+        {
+          "label": "Website",
+          "url": "https://www.madmilesrunclub.com/"
         }
       ]
     },
@@ -1475,6 +1721,19 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/groups/waxhawrc"
+        }
+      ]
+    },
+    {
+      "id": "sunday-queen-city-mother-runners-7-30-a-m-",
+      "day": "Sunday",
+      "name": "Queen City Mother Runners",
+      "location": "Summit Coffee - Davidson, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/queencitymotherrunners/"
         }
       ]
     },
@@ -1588,6 +1847,10 @@
       "location": "Model A Brewing, Fort Mill, SC and other assorted locations",
       "time": "Various a.m. and p.m.",
       "links": [
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/1434570"
+        },
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/tegacayrunclub/?hl=en"
