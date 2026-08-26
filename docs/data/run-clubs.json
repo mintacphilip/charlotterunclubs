@@ -1,227 +1,172 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-08-25T09:52:25.893Z",
-  "count": 109,
+  "fetchedAt": "2026-08-26T09:58:50.156Z",
+  "count": 111,
   "changes": {
     "added": [
       {
-        "id": "monday-charlotte-ladies-only-morning-run-club-6-15-a-m-",
-        "day": "Monday",
-        "name": "Charlotte Ladies Only Morning Run Club",
-        "location": "Former Bitty & Beau's - South End, Charlotte NC",
-        "time": "6:15 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/morning.runclub/"
-          }
-        ]
-      },
-      {
-        "id": "monday-seasonal-kannapolis-run-crew-6-00-p-m-",
-        "day": "Monday (seasonal)",
-        "name": "Kannapolis Run Crew",
-        "location": "High Performance Training, Kannapolis, NC",
-        "time": "6:00 p.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/kannapolisruncrew/"
-          }
-        ]
-      },
-      {
-        "id": "monday-old-armor-run-club-6-30-p-m-",
-        "day": "Monday",
-        "name": "Old Armor Run Club",
-        "location": "Old Armor Brewing, Kannapolis, NC",
-        "time": "6:30 p.m.",
-        "links": []
-      },
-      {
-        "id": "monday-mad-miles-run-club-6-30-p-m-",
-        "day": "Monday",
-        "name": "Mad Miles Run Club",
-        "location": "Social Status Charlotte, NC",
-        "time": "6:30 p.m.",
-        "links": []
-      },
-      {
-        "id": "wednesday-queen-city-mother-runners-6-00-a-m-",
-        "day": "Wednesday",
-        "name": "Queen City Mother Runners",
-        "location": "Summit Coffee - Davidson, NC",
+        "id": "tuesday-the-track-project-6-00-a-m-",
+        "day": "Tuesday",
+        "name": "The Track Project",
+        "location": "Charlotte Running Co - Promenade, Charlotte, NC",
         "time": "6:00 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/queencitymotherrunners/"
+            "url": "https://www.instagram.com/charlotterunningcompany"
           }
         ]
       },
       {
-        "id": "wednesday-frank-s-beer-shop-run-and-walk-dog-friendly-6-30-p-m-",
+        "id": "wednesday-the-sole-circuit-5-20-a-m-",
         "day": "Wednesday",
-        "name": "Frank's Beer Shop Run and Walk *dog friendly",
-        "location": "Frank's Beer Shop, Charlotte, NC",
-        "time": "6:30 p.m.",
+        "name": "The Sole Circuit",
+        "location": "West Charlotte High School Track",
+        "time": "5:20 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/franks.beer.shop/"
+            "url": "https://www.instagram.com/thesolecircuit"
           }
         ]
       },
       {
-        "id": "thursday-south-fork-run-club-6-15-p-m-",
-        "day": "Thursday",
-        "name": "South Fork Run Club",
-        "location": "Confluence, Cramerton, NC",
-        "time": "6:15 p.m.",
+        "id": "saturday-slow-runners-of-charlotte-7-00-a-m-",
+        "day": "Saturday",
+        "name": "Slow Runners of Charlotte",
+        "location": "Not Just Coffee - Jay Street, Charlotte, NC",
+        "time": "7:00 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/confluencesouthfork/"
+            "url": "https://www.instagram.com/slow_runners_of_charlotte/"
           }
         ]
       },
       {
-        "id": "thursday-seasonal-may-thru-sept-river-jam-run-club-6-30-p-m-",
-        "day": "Thursday Seasonal (May thru Sept)",
-        "name": "River Jam Run Club",
-        "location": "U.S. National Whitewater Center, Charlotte, NC",
-        "time": "6:30 p.m.",
+        "id": "saturday-good-people-run-club-7-00-a-m-",
+        "day": "Saturday",
+        "name": "Good People Run Club",
+        "location": "Bell Tower Green, Salisbury, NC",
+        "time": "7:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/goodpeople_runclub/"
+          }
+        ]
+      },
+      {
+        "id": "saturday-monthly-mallard-creek-greenway-run-7-00-8-00-a-m-varies",
+        "day": "Saturday - Monthly",
+        "name": "Mallard Creek Greenway Run",
+        "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
+        "time": "7:00 - 8:00 a.m. varies",
         "links": [
           {
             "label": "Website",
-            "url": "https://whitewater.org/events-races/river-jam/"
+            "url": "/Mallard-Creek-Greenway-Run"
           }
         ]
       },
       {
-        "id": "saturday-charlotte-front-runners-walkers-9-00-a-m-",
-        "day": "Saturday",
-        "name": "Charlotte Front Runners & Walkers",
-        "location": "Common Market - South End, Charlotte, NC",
-        "time": "9:00 a.m.",
+        "id": "saturday-monthly-cabarrus-can-run-7-00-a-m-",
+        "day": "Saturday - Monthly",
+        "name": "Cabarrus Can Run",
+        "location": "Fleet Feet - Concord, NC",
+        "time": "7:00 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/charlottefrontrunners"
+            "url": "https://www.instagram.com/cabarrus_can_run/"
           },
           {
             "label": "Facebook",
-            "url": "https://www.facebook.com/CharlotteFrontRunners"
+            "url": "https://www.facebook.com/groups/1182908559163507"
           }
         ]
       },
       {
-        "id": "sunday-queen-city-mother-runners-7-30-a-m-",
-        "day": "Sunday",
-        "name": "Queen City Mother Runners",
-        "location": "Summit Coffee - Davidson, NC",
-        "time": "7:30 a.m.",
+        "id": "sundaycurrently-on-pause-run-clt-run-club-1-30-p-m-",
+        "day": "SundayCurrently on Pause",
+        "name": "RUN CLT Run Club",
+        "location": "Fountain across the street from Kings Court Shopping Center",
+        "time": "1:30 p.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/queencitymotherrunners/"
+            "url": "https://www.instagram.com/runcltrunclub/"
           }
         ]
       }
     ],
     "removed": [
       {
-        "id": "monday-charlotte-ladies-morning-run-club-6-15-a-m-",
-        "day": "Monday",
-        "name": "Charlotte Ladies Morning Run Club",
-        "location": "Former Bitty & Beau's - South End, Charlotte NC",
-        "time": "6:15 a.m.",
+        "id": "saturday-slow-runners-of-charlotte-7-30-a-m-",
+        "day": "Saturday",
+        "name": "Slow Runners of Charlotte",
+        "location": "Not Just Coffee - Jay Street, Charlotte, NC",
+        "time": "7:30 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/morning.runclub/"
+            "url": "https://www.instagram.com/slow_runners_of_charlotte/"
           }
         ]
       },
       {
-        "id": "monday-kannapolis-run-crew-6-00-p-m-",
-        "day": "Monday",
-        "name": "Kannapolis Run Crew",
-        "location": "High Performance Training, Kannapolis, NC",
-        "time": "6:00 p.m.",
+        "id": "saturday-good-people-run-club-9-00-a-m-",
+        "day": "Saturday",
+        "name": "Good People Run Club",
+        "location": "Bell Tower Green, Salisbury, NC",
+        "time": "9:00 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/kannapolisruncrew/"
+            "url": "https://www.instagram.com/goodpeople_runclub/"
           }
         ]
       },
       {
-        "id": "wednesday-frank-s-beer-shop-run-and-walk-6-30-p-m-",
-        "day": "Wednesday",
-        "name": "Frank's Beer Shop Run and Walk",
-        "location": "Frank's Beer Shop, Charlotte, NC",
-        "time": "6:30 p.m.",
+        "id": "saturday-monthly-mallard-creek-greenway-run-7-8-a-m-varies",
+        "day": "Saturday - Monthly",
+        "name": "Mallard Creek Greenway Run",
+        "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
+        "time": "7 - 8 a.m. varies",
         "links": [
           {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/franks.beer.shop/"
+            "label": "Website",
+            "url": "/Mallard-Creek-Greenway-Run"
           }
         ]
       },
       {
-        "id": "thursday-new-sarum-run-club-6-00-p-m-",
-        "day": "Thursday",
-        "name": "New Sarum Run Club",
-        "location": "New Sarum Brewing, Salisbury, NC",
-        "time": "6:00 p.m.",
+        "id": "saturday-monthly-cabarrus-can-run-7-a-m-",
+        "day": "Saturday - Monthly",
+        "name": "Cabarrus Can Run",
+        "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
+        "time": "7 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/newsarumbrewing_runclub/"
+            "url": "https://www.instagram.com/cabarrus_can_run/"
           },
           {
             "label": "Facebook",
-            "url": "https://www.facebook.com/nsbrunclub"
+            "url": "https://www.facebook.com/groups/1182908559163507"
           }
         ]
       },
       {
-        "id": "thursday-north-end-run-club-6-30-p-m-",
-        "day": "Thursday",
-        "name": "North End Run Club",
-        "location": "Petty Thieves Brewing, Charlotte, NC",
-        "time": "6:30 p.m.",
+        "id": "sunday-run-clt-run-club-1-30-p-m-",
+        "day": "Sunday",
+        "name": "RUN CLT Run Club",
+        "location": "Fountain across the street from Kings Court Shopping Center",
+        "time": "1:30 p.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/northendrunclub/"
-          }
-        ]
-      },
-      {
-        "id": "thursday-south-fork-run-club-6-30-p-m-",
-        "day": "Thursday",
-        "name": "South Fork Run Club",
-        "location": "Confluence, Cramerton, NC",
-        "time": "6:30 p.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/confluencesouthfork/"
-          }
-        ]
-      },
-      {
-        "id": "saturday-pace-cadets-8-00-p-m-",
-        "day": "Saturday",
-        "name": "Pace Cadets",
-        "location": "Swanee Theater, Kannapolis, NC",
-        "time": "8:00 p.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/pacecadetsracing/"
+            "url": "https://www.instagram.com/runcltrunclub/"
           }
         ]
       }
@@ -449,6 +394,19 @@
       "links": []
     },
     {
+      "id": "tuesday-the-track-project-6-00-a-m-",
+      "day": "Tuesday",
+      "name": "The Track Project",
+      "location": "Charlotte Running Co - Promenade, Charlotte, NC",
+      "time": "6:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/charlotterunningcompany"
+        }
+      ]
+    },
+    {
       "id": "tuesday-summit-coffee-run-eastover-6-15-a-m-",
       "day": "Tuesday",
       "name": "Summit Coffee Run - Eastover",
@@ -647,6 +605,19 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/profile.php?id=61566971644318"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-the-sole-circuit-5-20-a-m-",
+      "day": "Wednesday",
+      "name": "The Sole Circuit",
+      "location": "West Charlotte High School Track",
+      "time": "5:20 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/thesolecircuit"
         }
       ]
     },
@@ -1450,10 +1421,6 @@
       "time": "7:00 a.m.",
       "links": [
         {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/charlotterunnersunited/"
-        },
-        {
           "label": "Group Me",
           "url": "https://groupme.com/join_group/92337432/rP6i8FyC"
         }
@@ -1473,15 +1440,28 @@
       ]
     },
     {
-      "id": "saturday-slow-runners-of-charlotte-7-30-a-m-",
+      "id": "saturday-slow-runners-of-charlotte-7-00-a-m-",
       "day": "Saturday",
       "name": "Slow Runners of Charlotte",
       "location": "Not Just Coffee - Jay Street, Charlotte, NC",
-      "time": "7:30 a.m.",
+      "time": "7:00 a.m.",
       "links": [
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/slow_runners_of_charlotte/"
+        }
+      ]
+    },
+    {
+      "id": "saturday-good-people-run-club-7-00-a-m-",
+      "day": "Saturday",
+      "name": "Good People Run Club",
+      "location": "Bell Tower Green, Salisbury, NC",
+      "time": "7:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/goodpeople_runclub/"
         }
       ]
     },
@@ -1584,6 +1564,10 @@
         {
           "label": "Website",
           "url": "https://www.parkrun.us/littlesugarcreekgreenway/"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/lscgparkrun/"
         }
       ]
     },
@@ -1601,19 +1585,6 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/CharlotteFrontRunners"
-        }
-      ]
-    },
-    {
-      "id": "saturday-good-people-run-club-9-00-a-m-",
-      "day": "Saturday",
-      "name": "Good People Run Club",
-      "location": "Bell Tower Green, Salisbury, NC",
-      "time": "9:00 a.m.",
-      "links": [
-        {
-          "label": "Instagram",
-          "url": "https://www.instagram.com/goodpeople_runclub/"
         }
       ]
     },
@@ -1648,11 +1619,11 @@
       ]
     },
     {
-      "id": "saturday-monthly-mallard-creek-greenway-run-7-8-a-m-varies",
+      "id": "saturday-monthly-mallard-creek-greenway-run-7-00-8-00-a-m-varies",
       "day": "Saturday - Monthly",
       "name": "Mallard Creek Greenway Run",
       "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
-      "time": "7 - 8 a.m. varies",
+      "time": "7:00 - 8:00 a.m. varies",
       "links": [
         {
           "label": "Website",
@@ -1661,11 +1632,11 @@
       ]
     },
     {
-      "id": "saturday-monthly-cabarrus-can-run-7-a-m-",
+      "id": "saturday-monthly-cabarrus-can-run-7-00-a-m-",
       "day": "Saturday - Monthly",
       "name": "Cabarrus Can Run",
-      "location": "Irish Buffalo Creek Greenway, Kannapolis, NC",
-      "time": "7 a.m.",
+      "location": "Fleet Feet - Concord, NC",
+      "time": "7:00 a.m.",
       "links": [
         {
           "label": "Instagram",
@@ -1798,8 +1769,8 @@
       ]
     },
     {
-      "id": "sunday-run-clt-run-club-1-30-p-m-",
-      "day": "Sunday",
+      "id": "sundaycurrently-on-pause-run-clt-run-club-1-30-p-m-",
+      "day": "SundayCurrently on Pause",
       "name": "RUN CLT Run Club",
       "location": "Fountain across the street from Kings Court Shopping Center",
       "time": "1:30 p.m.",
