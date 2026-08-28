@@ -1,10 +1,81 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-08-27T19:51:47.370Z",
-  "count": 111,
+  "fetchedAt": "2026-08-28T20:55:37.700Z",
+  "count": 114,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "monday-morning-run-club-6-15-a-m-",
+        "day": "Monday",
+        "name": "Morning. Run Club",
+        "location": "Former Bitty & Beau's - South End, Charlotte NC",
+        "time": "6:15 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/morning.runclub/"
+          }
+        ]
+      },
+      {
+        "id": "tuesday-tuesday-track-trials-6-15-p-m-",
+        "day": "Tuesday",
+        "name": "Tuesday Track Trials",
+        "location": "Rotates between JCSU and Alexander Graham Middle School, Charlotte, NC *check Strava for weekly location",
+        "time": "6:15 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/tracktuesdaytrials/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/clubs/2292856"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-on-tap-run-club-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "On Tap Run Club",
+        "location": "On Tap, Mooresville, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/groups/171130483557618"
+          }
+        ]
+      },
+      {
+        "id": "wednesday-charlotte-rogue-runners-6-30-p-m-",
+        "day": "Wednesday",
+        "name": "Charlotte Rogue Runners",
+        "location": "Marion Diehl Park, Charlotte, NC",
+        "time": "6:30 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/cltroguerunners/"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "monday-charlotte-ladies-only-morning-run-club-6-15-a-m-",
+        "day": "Monday",
+        "name": "Charlotte Ladies Only Morning Run Club",
+        "location": "Former Bitty & Beau's - South End, Charlotte NC",
+        "time": "6:15 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/morning.runclub/"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -21,9 +92,9 @@
       ]
     },
     {
-      "id": "monday-charlotte-ladies-only-morning-run-club-6-15-a-m-",
+      "id": "monday-morning-run-club-6-15-a-m-",
       "day": "Monday",
-      "name": "Charlotte Ladies Only Morning Run Club",
+      "name": "Morning. Run Club",
       "location": "Former Bitty & Beau's - South End, Charlotte NC",
       "time": "6:15 a.m.",
       "links": [
@@ -293,6 +364,23 @@
       ]
     },
     {
+      "id": "tuesday-tuesday-track-trials-6-15-p-m-",
+      "day": "Tuesday",
+      "name": "Tuesday Track Trials",
+      "location": "Rotates between JCSU and Alexander Graham Middle School, Charlotte, NC *check Strava for weekly location",
+      "time": "6:15 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/tracktuesdaytrials/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://www.strava.com/clubs/2292856"
+        }
+      ]
+    },
+    {
       "id": "tuesday-running-raptors-6-30-p-m-",
       "day": "Tuesday",
       "name": "Running Raptors",
@@ -445,7 +533,7 @@
     {
       "id": "wednesday-the-sole-circuit-5-20-a-m-",
       "day": "Wednesday",
-      "name": "The Sole Circuit",
+      "name": "the sole circuit",
       "location": "West Charlotte High School Track",
       "time": "5:20 a.m.",
       "links": [
@@ -804,6 +892,32 @@
         {
           "label": "Strava",
           "url": "https://strava.app.link/1oH8bw3ge0b"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-on-tap-run-club-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "On Tap Run Club",
+      "location": "On Tap, Mooresville, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/groups/171130483557618"
+        }
+      ]
+    },
+    {
+      "id": "wednesday-charlotte-rogue-runners-6-30-p-m-",
+      "day": "Wednesday",
+      "name": "Charlotte Rogue Runners",
+      "location": "Marion Diehl Park, Charlotte, NC",
+      "time": "6:30 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/cltroguerunners/"
         }
       ]
     },
