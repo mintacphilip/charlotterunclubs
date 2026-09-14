@@ -1,9 +1,31 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-09-13T13:48:51.026Z",
-  "count": 114,
+  "fetchedAt": "2026-09-14T15:54:25.087Z",
+  "count": 115,
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "friday-belmont-ladies-run-club-6-30-a-m-",
+        "day": "Friday",
+        "name": "Belmont Ladies Run Club",
+        "location": "Rotating locations in Belmont *Check socials",
+        "time": "6:30 a.m.",
+        "links": [
+          {
+            "label": "Facebook",
+            "url": "https://www.facebook.com/share/g/1LpqTuvDgn/?mibextid=wwXIfr"
+          },
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/belmontladiesrunclub"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/MWbbFWSSb6b"
+          }
+        ]
+      }
+    ],
     "removed": []
   },
   "clubs": [
@@ -1257,6 +1279,27 @@
         {
           "label": "Strava",
           "url": "https://strava.app.link/99lpINR26Zb"
+        }
+      ]
+    },
+    {
+      "id": "friday-belmont-ladies-run-club-6-30-a-m-",
+      "day": "Friday",
+      "name": "Belmont Ladies Run Club",
+      "location": "Rotating locations in Belmont *Check socials",
+      "time": "6:30 a.m.",
+      "links": [
+        {
+          "label": "Facebook",
+          "url": "https://www.facebook.com/share/g/1LpqTuvDgn/?mibextid=wwXIfr"
+        },
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/belmontladiesrunclub"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/MWbbFWSSb6b"
         }
       ]
     },
