@@ -1,31 +1,9 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-09-14T15:54:25.087Z",
+  "fetchedAt": "2026-09-15T14:20:28.727Z",
   "count": 115,
   "changes": {
-    "added": [
-      {
-        "id": "friday-belmont-ladies-run-club-6-30-a-m-",
-        "day": "Friday",
-        "name": "Belmont Ladies Run Club",
-        "location": "Rotating locations in Belmont *Check socials",
-        "time": "6:30 a.m.",
-        "links": [
-          {
-            "label": "Facebook",
-            "url": "https://www.facebook.com/share/g/1LpqTuvDgn/?mibextid=wwXIfr"
-          },
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/belmontladiesrunclub"
-          },
-          {
-            "label": "Strava",
-            "url": "https://strava.app.link/MWbbFWSSb6b"
-          }
-        ]
-      }
-    ],
+    "added": [],
     "removed": []
   },
   "clubs": [
