@@ -1,10 +1,46 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-10-05T18:30:54.650Z",
+  "fetchedAt": "2026-10-06T15:58:46.652Z",
   "count": 115,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "tuesday-track-tuesday-trials-6-15-p-m-",
+        "day": "Tuesday",
+        "name": "Track Tuesday Trials",
+        "location": "Rotates between JCSU and Alexander Graham Middle School, Charlotte, NC *check Strava for weekly location",
+        "time": "6:15 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/tracktuesdaytrials/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/clubs/2292856"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "tuesday-tuesday-track-trials-6-15-p-m-",
+        "day": "Tuesday",
+        "name": "Tuesday Track Trials",
+        "location": "Rotates between JCSU and Alexander Graham Middle School, Charlotte, NC *check Strava for weekly location",
+        "time": "6:15 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/tracktuesdaytrials/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://www.strava.com/clubs/2292856"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -293,9 +329,9 @@
       ]
     },
     {
-      "id": "tuesday-tuesday-track-trials-6-15-p-m-",
+      "id": "tuesday-track-tuesday-trials-6-15-p-m-",
       "day": "Tuesday",
-      "name": "Tuesday Track Trials",
+      "name": "Track Tuesday Trials",
       "location": "Rotates between JCSU and Alexander Graham Middle School, Charlotte, NC *check Strava for weekly location",
       "time": "6:15 p.m.",
       "links": [
