@@ -1,10 +1,64 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-10-16T13:59:17.912Z",
-  "count": 115,
+  "fetchedAt": "2026-10-17T12:59:24.275Z",
+  "count": 117,
   "changes": {
-    "added": [],
-    "removed": []
+    "added": [
+      {
+        "id": "tuesday-plaza-midwood-run-club-7-00-p-m-",
+        "day": "Tuesday",
+        "name": "Plaza Midwood Run Club",
+        "location": "Sip City, Charlotte, NC",
+        "time": "7:00 p.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/plazamidwood_runclub/"
+          }
+        ]
+      },
+      {
+        "id": "saturday-queen-city-run-social-9-00-a-m-",
+        "day": "Saturday",
+        "name": "Queen City Run Social",
+        "location": "Lake Park Community Center (in park across from the center), Indian Trail, NC",
+        "time": "9:00 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/queencityrunsocial_/"
+          }
+        ]
+      },
+      {
+        "id": "saturday-monthly-mallard-creek-greenway-run-7-8-a-m-varies",
+        "day": "Saturday - Monthly",
+        "name": "Mallard Creek Greenway Run",
+        "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
+        "time": "7 - 8 a.m. varies",
+        "links": [
+          {
+            "label": "Website",
+            "url": "/Mallard-Creek-Greenway-Run"
+          }
+        ]
+      }
+    ],
+    "removed": [
+      {
+        "id": "saturday-monthly-mallard-creek-greenway-run-7-00-8-00-a-m-varies",
+        "day": "Saturday - Monthly",
+        "name": "Mallard Creek Greenway Run",
+        "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
+        "time": "7:00 - 8:00 a.m. varies",
+        "links": [
+          {
+            "label": "Website",
+            "url": "/Mallard-Creek-Greenway-Run"
+          }
+        ]
+      }
+    ]
   },
   "clubs": [
     {
@@ -456,6 +510,19 @@
         {
           "label": "Facebook",
           "url": "https://www.facebook.com/profile.php?id=61566971644318"
+        }
+      ]
+    },
+    {
+      "id": "tuesday-plaza-midwood-run-club-7-00-p-m-",
+      "day": "Tuesday",
+      "name": "Plaza Midwood Run Club",
+      "location": "Sip City, Charlotte, NC",
+      "time": "7:00 p.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/plazamidwood_runclub/"
         }
       ]
     },
@@ -1487,6 +1554,19 @@
       ]
     },
     {
+      "id": "saturday-queen-city-run-social-9-00-a-m-",
+      "day": "Saturday",
+      "name": "Queen City Run Social",
+      "location": "Lake Park Community Center (in park across from the center), Indian Trail, NC",
+      "time": "9:00 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/queencityrunsocial_/"
+        }
+      ]
+    },
+    {
       "id": "saturday-mad-miles-run-club-10-00-a-m-",
       "day": "Saturday",
       "name": "Mad Miles Run Club",
@@ -1517,11 +1597,11 @@
       ]
     },
     {
-      "id": "saturday-monthly-mallard-creek-greenway-run-7-00-8-00-a-m-varies",
+      "id": "saturday-monthly-mallard-creek-greenway-run-7-8-a-m-varies",
       "day": "Saturday - Monthly",
       "name": "Mallard Creek Greenway Run",
       "location": "Mallard Creek Greenway, Mallard Creek Elementary Entrance, Charlotte, NC",
-      "time": "7:00 - 8:00 a.m. varies",
+      "time": "7 - 8 a.m. varies",
       "links": [
         {
           "label": "Website",
