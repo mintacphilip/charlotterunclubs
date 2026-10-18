@@ -100,6 +100,7 @@ const CLUB_THUMBNAILS = {
   'The Chamber Run': '/assets/clubs/TheChamberRun.png',
   'The Sole': '/assets/clubs/TheSole.png',
   'Top Flight Run Crew': '/assets/clubs/TopFlightRunCrew.jpg',
+  'Track Tuesday Trials': '/assets/clubs/TrackTuesdayTrials.jpg',
   'Triple C Beer Runners': '/assets/clubs/TripleCBeerRunners.jpeg.png',
   'Uwharrie Brewing Running Club': '/assets/clubs/UwharrieBrewing.png',
   'Waxhaw Run Club': '/assets/clubs/WaxhawRunClub.png',
