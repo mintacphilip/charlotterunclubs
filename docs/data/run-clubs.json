@@ -1,9 +1,23 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-10-18T13:19:50.456Z",
-  "count": 117,
+  "fetchedAt": "2026-10-19T16:29:21.614Z",
+  "count": 118,
   "changes": {
-    "added": [],
+    "added": [
+      {
+        "id": "saturday-kunu-coffee-run-club-6-30-a-m-",
+        "day": "Saturday",
+        "name": "Kunu Coffee Run Club",
+        "location": "Kunu Coffee, Cornelius, NC",
+        "time": "6:30 a.m.",
+        "links": [
+          {
+            "label": "Instagram",
+            "url": "https://www.instagram.com/kunucoffee/"
+          }
+        ]
+      }
+    ],
     "removed": []
   },
   "clubs": [
@@ -1308,6 +1322,19 @@
         {
           "label": "Strava",
           "url": "https://strava.app.link/Abfca15SD3b"
+        }
+      ]
+    },
+    {
+      "id": "saturday-kunu-coffee-run-club-6-30-a-m-",
+      "day": "Saturday",
+      "name": "Kunu Coffee Run Club",
+      "location": "Kunu Coffee, Cornelius, NC",
+      "time": "6:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/kunucoffee/"
         }
       ]
     },
