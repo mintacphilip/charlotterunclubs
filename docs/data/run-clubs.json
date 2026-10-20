@@ -1,19 +1,23 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-10-19T16:29:21.614Z",
-  "count": 118,
+  "fetchedAt": "2026-10-20T14:19:46.050Z",
+  "count": 119,
   "changes": {
     "added": [
       {
-        "id": "saturday-kunu-coffee-run-club-6-30-a-m-",
-        "day": "Saturday",
-        "name": "Kunu Coffee Run Club",
-        "location": "Kunu Coffee, Cornelius, NC",
-        "time": "6:30 a.m.",
+        "id": "sunday-omr-ultra-dirt-church-7-30-a-m-",
+        "day": "Sunday",
+        "name": "OMR Ultra - \"Dirt Church\"",
+        "location": "Steven's Creek Nature Preserve, Mint Hill, NC",
+        "time": "7:30 a.m.",
         "links": [
           {
             "label": "Instagram",
-            "url": "https://www.instagram.com/kunucoffee/"
+            "url": "https://www.instagram.com/omr_ultra/"
+          },
+          {
+            "label": "Strava",
+            "url": "https://strava.app.link/EJSKCxpop6b"
           }
         ]
       }
@@ -1656,6 +1660,23 @@
         {
           "label": "Instagram",
           "url": "https://www.instagram.com/queencitymotherrunners/"
+        }
+      ]
+    },
+    {
+      "id": "sunday-omr-ultra-dirt-church-7-30-a-m-",
+      "day": "Sunday",
+      "name": "OMR Ultra - \"Dirt Church\"",
+      "location": "Steven's Creek Nature Preserve, Mint Hill, NC",
+      "time": "7:30 a.m.",
+      "links": [
+        {
+          "label": "Instagram",
+          "url": "https://www.instagram.com/omr_ultra/"
+        },
+        {
+          "label": "Strava",
+          "url": "https://strava.app.link/EJSKCxpop6b"
         }
       ]
     },
