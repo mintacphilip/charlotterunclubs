@@ -1,27 +1,9 @@
 {
   "source": "https://www.charlotterunningclub.org/Run-Clubs",
-  "fetchedAt": "2026-10-20T14:19:46.050Z",
+  "fetchedAt": "2026-10-21T14:30:09.677Z",
   "count": 119,
   "changes": {
-    "added": [
-      {
-        "id": "sunday-omr-ultra-dirt-church-7-30-a-m-",
-        "day": "Sunday",
-        "name": "OMR Ultra - \"Dirt Church\"",
-        "location": "Steven's Creek Nature Preserve, Mint Hill, NC",
-        "time": "7:30 a.m.",
-        "links": [
-          {
-            "label": "Instagram",
-            "url": "https://www.instagram.com/omr_ultra/"
-          },
-          {
-            "label": "Strava",
-            "url": "https://strava.app.link/EJSKCxpop6b"
-          }
-        ]
-      }
-    ],
+    "added": [],
     "removed": []
   },
   "clubs": [
